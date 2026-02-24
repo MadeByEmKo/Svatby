@@ -7,7 +7,7 @@ export default defineConfig({
   plugins: [react(), tailwindcss()],
   export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: '/svatebni-sablona/'
+  base: '/Svatby/'
 })
 
 })
